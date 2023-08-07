@@ -11,7 +11,6 @@ class node{
     }
 };
 
-RFURLIGHIRUGHFBFCHBDHBXKJEGNZVLRHNSEIRUHN
 
 
 void insertnode(node* &tail,int element, int d)
