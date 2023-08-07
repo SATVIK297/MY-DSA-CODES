@@ -10,6 +10,8 @@ class node{
         this->next = NULL;
     }
 };
+
+RFURLIGHIRUGH
 void insertnode(node* &tail,int element, int d)
 {
     //empty .list
